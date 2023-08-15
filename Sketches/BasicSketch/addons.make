@@ -1,7 +1,7 @@
 ofxOsc
-ofxPoco
 ofxXmlSettings
 ../../ExternalAddons/ofxTimeMeasurements
+ofxPoco
 ../../ExternalAddons/ofxRemoteUI
 ../../ExternalAddons/ofxHistoryPlot
 ../../ExternalAddons/ofxAnimatable
